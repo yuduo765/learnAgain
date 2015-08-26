@@ -7,3 +7,5 @@ this is on yumangui branch ,i am doing something will finished two days later.
 new test not finished ,will a week after
 
 oneweek later ,i finished.ok refer
+
+merge history test

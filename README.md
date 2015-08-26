@@ -1,5 +1,5 @@
 # learnAgain
 
-add yuamngui first
+add yuamngui first append new will perfect
 
 

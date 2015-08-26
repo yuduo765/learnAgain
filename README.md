@@ -19,3 +19,7 @@ add yumangui on yumangui
 
 
 add somethong on dev
+
+test commit merge add append new issue_101
+
+change my new using

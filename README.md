@@ -11,4 +11,8 @@ oneweek later ,i finished.ok refer
 
 merge history test
 
+<<<<<<< HEAD
 first not --no-ff
+=======
+on dev --no-ff
+>>>>>>> dev

@@ -9,3 +9,5 @@ new test not finished ,will a week after
 oneweek later ,i finished.ok refer
 
 merge history test
+
+on dev --no-ff

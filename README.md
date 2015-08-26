@@ -10,4 +10,4 @@ oneweek later ,i finished.ok refer
 
 merge history test
 
-on dev --no-ff
+on dev --no-ff test
